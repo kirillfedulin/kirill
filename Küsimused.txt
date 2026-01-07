@@ -1,1 +1,2 @@
 1. Sinu nimi: 
+2. Mis on sinu lemmik kool: 
