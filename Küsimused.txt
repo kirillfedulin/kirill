@@ -2,4 +2,4 @@
 2. Mis on sinu lemmik kool: TTHK
 3. Kas sule meeldib TTHK: jah
 4. Mis on sinu lemmik mäng: GTA 5
-5. Kas sulle meeldib Git CMD: 
+5. Kas sulle meeldib Git CMD: jah
