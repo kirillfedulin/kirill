@@ -1,5 +1,5 @@
 1. Sinu nimi: Yaroslav
-2. Mis on sinu lemmik kool: 
+2. Mis on sinu lemmik kool: TTHK
 3. Kas sule meeldib TTHK: 
 4. Mis on sinu lemmik mäng: 
 5. Kas sulle meeldib Git CMD: 
